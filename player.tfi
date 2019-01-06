@@ -1,0 +1,18 @@
+
+
+
+// Instantiate the module
+player instance_name (
+    .clk(clk), 
+    .rst(rst), 
+    .ps2_clk(ps2_clk), 
+    .ps2_data(ps2_data), 
+    .is_player(is_player), 
+    .have_chess(have_chess), 
+    .disp(disp), 
+    .choose_row(choose_row), 
+    .choose_col(choose_col), 
+    .pressed(pressed)
+    );
+
+

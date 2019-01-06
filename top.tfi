@@ -1,0 +1,17 @@
+
+
+
+// Instantiate the module
+top instance_name (
+    .clk(clk), 
+    .rst(rst), 
+    .ps2_clk(ps2_clk), 
+    .ps2_data(ps2_data), 
+    .sync_h(sync_h), 
+    .sync_v(sync_v), 
+    .r(r), 
+    .g(g), 
+    .b(b)
+    );
+
+

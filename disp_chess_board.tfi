@@ -1,0 +1,22 @@
+
+
+
+// Instantiate the module
+disp_chess_board instance_name (
+    .clk(clk), 
+    .rst(rst), 
+    .data_ram_we(data_ram_we), 
+    .display_black(display_black), 
+    .display_white(display_white), 
+    .choose_row(choose_row), 
+    .choose_col(choose_col), 
+    .who_win(who_win), 
+    .sync_h(sync_h), 
+    .sync_v(sync_v), 
+    .r(r), 
+    .g(g), 
+    .b(b), 
+    .douta(douta)
+    );
+
+

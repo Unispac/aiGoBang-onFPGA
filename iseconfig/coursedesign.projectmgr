@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="coursedesign" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/aiGo C:|Users|Unispace|Desktop|coursedesign-master|aiGo.v</ClosedNode>
+         <ClosedNode>/aiGo D:|iseproj|coursedesign-master|aiGo.v</ClosedNode>
+         <ClosedNode>/player D:|iseproj|coursedesign|player.v</ClosedNode>
+         <ClosedNode>/top C:|Users|41616|Desktop|AIgoBang|coursedesign-master|top.v</ClosedNode>
+         <ClosedNode>/top C:|Users|Unispace|Desktop|coursedesign-master|top.v/ai1 - aiGo</ClosedNode>
+         <ClosedNode>/top C:|Users|Unispace|Desktop|coursedesign-master|top.v/check1 - win_checker</ClosedNode>
+         <ClosedNode>/top C:|Users|Unispace|Desktop|coursedesign-master|top.v/display - disp_chess_board</ClosedNode>
+         <ClosedNode>/top C:|Users|Unispace|Desktop|coursedesign-master|top.v/player1 - player</ClosedNode>
+         <ClosedNode>/top C:|Users|Unispace|Desktop|coursedesign-master|top.v/player2 - player</ClosedNode>
+         <ClosedNode>/top D:|iseproj|coursedesign-master|top.v/ai1 - aiGo</ClosedNode>
+         <ClosedNode>/top D:|iseproj|coursedesign-master|top.v/check1 - win_checker</ClosedNode>
+         <ClosedNode>/top D:|iseproj|coursedesign-master|top.v/check2 - win_checker</ClosedNode>
+         <ClosedNode>/top D:|iseproj|coursedesign-master|top.v/display - disp_chess_board</ClosedNode>
+         <ClosedNode>/top D:|iseproj|coursedesign-master|top.v/player1 - player</ClosedNode>
+         <ClosedNode>/top D:|iseproj|coursedesign-master|top.v/player2 - player</ClosedNode>
+         <ClosedNode>/top D:|iseproj|coursedesign|top.v/check - win_checker</ClosedNode>
+         <ClosedNode>/top D:|iseproj|coursedesign|top.v/check1 - win_checker</ClosedNode>
+         <ClosedNode>/top D:|iseproj|coursedesign|top.v/check2 - win_checker</ClosedNode>
+         <ClosedNode>/top D:|iseproj|coursedesign|top.v/check_player1 - win_checker</ClosedNode>
+         <ClosedNode>/top D:|iseproj|coursedesign|top.v/check_player2 - win_checker</ClosedNode>
+         <ClosedNode>/top D:|iseproj|coursedesign|top.v/display - disp_chess_board</ClosedNode>
+         <ClosedNode>/top D:|iseproj|coursedesign|top.v/myinput - ps2_input</ClosedNode>
+         <ClosedNode>/top D:|iseproj|coursedesign|top.v/player1 - player</ClosedNode>
+         <ClosedNode>/top D:|iseproj|coursedesign|top.v/player1 - player/myinput - ps2_input</ClosedNode>
+         <ClosedNode>/top D:|iseproj|coursedesign|top.v/player2 - player</ClosedNode>
+         <ClosedNode>/win_checker D:|iseproj|coursedesign|win_checker.v</ClosedNode>
+         <ClosedNode>/win_checker F:|coursedesign-master|coursedesign|win_checker.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>top (C:/Users/Unispace/Desktop/coursedesign-master/top.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >2</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001be000000020000000000000000000000000200000064ffffffff000000810000000300000002000001be0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>top (C:/Users/Unispace/Desktop/coursedesign-master/top.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>CORE Generator</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000118000000010000000100000000000000000000000064ffffffff000000810000000000000001000001180000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000392000000040101000100000000000000000000000064ffffffff0000008100000000000000040000003d0000000100000000000000240000000100000000000000780000000100000000000002b90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>clk_div.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000110000000010001000100000000000000000000000064ffffffff000000810000000000000001000001100000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000012d0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Check Syntax</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000e7000000010000000100000000000000000000000064ffffffff000000810000000000000001000000e70000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Check Syntax</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_CDC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_BMM" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000118000000010000000100000000000000000000000064ffffffff000000810000000000000001000001180000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/h_v_test C:|Users|41616|Desktop|AIgoBang|coursedesign-master|h_v_test.v</ClosedNode>
+         <ClosedNode>/h_v_test D:|iseproj|coursedesign|h_v_test.v</ClosedNode>
+         <ClosedNode>/h_v_test F:|coursedesign-master|coursedesign|h_v_test.v</ClosedNode>
+         <ClosedNode>/l_l_u_r_test C:|Users|41616|Desktop|AIgoBang|coursedesign-master|l_l_u_r_test.v</ClosedNode>
+         <ClosedNode>/l_l_u_r_test D:|iseproj|coursedesign|l_l_u_r_test.v</ClosedNode>
+         <ClosedNode>/l_l_u_r_test F:|coursedesign-master|coursedesign|l_l_u_r_test.v</ClosedNode>
+         <ClosedNode>/player_test D:|iseproj|coursedesign|player_test.v</ClosedNode>
+         <ClosedNode>/testaigomo C:|Users|Unispace|Desktop|coursedesign-master|testaigomo.v</ClosedNode>
+         <ClosedNode>/top C:|Users|41616|Desktop|AIgoBang|coursedesign-master|top.v</ClosedNode>
+         <ClosedNode>/top C:|Users|41616|Desktop|AIgoBang|coursedesign-master|top.v/display - disp_chess_board</ClosedNode>
+         <ClosedNode>/top D:|iseproj|coursedesign|top.v</ClosedNode>
+         <ClosedNode>/top F:|coursedesign-master|coursedesign|top.v</ClosedNode>
+         <ClosedNode>/u_l_l_r_test C:|Users|41616|Desktop|AIgoBang|coursedesign-master|u_l_l_r_test.v</ClosedNode>
+         <ClosedNode>/u_l_l_r_test D:|iseproj|coursedesign|u_l_l_r_test.v</ClosedNode>
+         <ClosedNode>/u_l_l_r_test F:|coursedesign-master|coursedesign|u_l_l_r_test.v</ClosedNode>
+         <ClosedNode>/win_checker D:|iseproj|coursedesign|win_checker.v</ClosedNode>
+         <ClosedNode>/win_checker F:|coursedesign-master|coursedesign|win_checker.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Unassigned User Library Modules</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001be000000020000000000000000000000000200000064ffffffff000000810000000300000002000001be0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Unassigned User Library Modules</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000fa000000010000000100000000000000000000000064ffffffff000000810000000000000001000000fa0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_NGC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000fa000000010000000100000000000000000000000064ffffffff000000810000000000000001000000fa0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+</Project>

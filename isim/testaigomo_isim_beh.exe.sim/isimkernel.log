@@ -1,0 +1,28 @@
+Command line:
+   testaigomo_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57783
+
+Sun Jan 06 01:25:46 2019
+
+
+ Elaboration Time: 0.21875 sec
+
+ Current Memory Usage: 5991.87 Meg
+
+ Total Signals          : 97
+ Total Nets             : 1066
+ Total Signal Drivers   : 62
+ Total Blocks           : 19
+ Total Primitive Blocks : 17
+ Total Processes        : 90
+ Total Traceable Variables  : 165
+ Total Scalar Nets and Variables : 5003
+
+ Total Simulation Time: 0.90625 sec
+
+ Current Memory Usage: 5991.87 Meg
+
+Sun Jan 06 01:26:15 2019
+

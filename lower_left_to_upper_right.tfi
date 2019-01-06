@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+lower_left_to_upper_right instance_name (
+    .row(row), 
+    .col(col), 
+    .ch(ch), 
+    .win_check(win_check)
+    );
+
+

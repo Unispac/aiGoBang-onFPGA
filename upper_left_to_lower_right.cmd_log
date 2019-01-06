@@ -1,0 +1,2 @@
+vhdtdtfi -lang verilog -prj coursedesign -o D:/iseproj/coursedesign/upper_left_to_lower_right.tfi -lib work D:/iseproj/coursedesign//upper_left_to_lower_right.v -module upper_left_to_lower_right -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj coursedesign -o D:/iseproj/coursedesign/upper_left_to_lower_right.tfi -lib work D:/iseproj/coursedesign//upper_left_to_lower_right.v -module upper_left_to_lower_right -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

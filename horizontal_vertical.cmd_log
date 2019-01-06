@@ -1,0 +1,2 @@
+vhdtdtfi -lang verilog -prj coursedesign -o D:/iseproj/coursedesign/horizontal_vertical.tfi -lib work D:/iseproj/coursedesign//horizontal_vertical.v -module horizontal_vertical -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj coursedesign -o D:/iseproj/coursedesign/horizontal_vertical.tfi -lib work D:/iseproj/coursedesign//horizontal_vertical.v -module horizontal_vertical -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

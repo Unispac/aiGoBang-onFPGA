@@ -1,0 +1,2 @@
+vhdtdtfi -lang verilog -prj coursedesign -o D:/iseproj/coursedesign/disp_chess_board.tfi -lib work D:/iseproj/coursedesign//disp_chess_board.v -module disp_chess_board -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj coursedesign -o D:/iseproj/coursedesign/disp_chess_board.tfi -lib work D:/iseproj/coursedesign//disp_chess_board.v -module disp_chess_board -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

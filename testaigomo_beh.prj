@@ -1,0 +1,5 @@
+verilog work "judgeChessForm.v"
+verilog work "evaluate.v"
+verilog work "aiGo.v"
+verilog work "testaigomo.v"
+verilog work "D:/ISE/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
